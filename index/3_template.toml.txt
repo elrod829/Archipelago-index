@@ -1,7 +1,0 @@
-name = "Template File"
-home = "https://discord.com/channels/###################/###################"
-default_url = "https://github.com/<AUTHOR>/<REPOSITORY>/releases/download/v{{version}}/<game.apworld>"
-tags = ["ad"]
-
-[versions]
-"0.1.0" = {}

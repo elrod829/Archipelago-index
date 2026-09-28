@@ -1,0 +1,7 @@
+name = "Yu-Gi-Oh Legacy of the Duelist Link Evolution"
+home = "https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/tree/master"
+default_url = "https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/releases/download/v0.0.2/ygo_lotd.apworld"
+tags = ["Yu-Gi-Oh"]
+
+[versions]
+"0.0.2" = {"https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/releases/download/v0.0.2/ygo_lotd.apworld"}
