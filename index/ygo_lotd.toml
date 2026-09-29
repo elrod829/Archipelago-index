@@ -4,4 +4,4 @@ default_url = "https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/releases/do
 tags = ["Yu-Gi-Oh"]
 
 [versions]
-"0.0.2" = {"https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/releases/download/v0.0.2/ygo_lotd.apworld"}
+"0.0.2" = { url = "https://github.com/HillbillyDroid/YGO-LotD-LE-APWorld/releases/download/v0.0.2/ygo_lotd.apworld" }
